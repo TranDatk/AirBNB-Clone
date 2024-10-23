@@ -55,15 +55,16 @@ This project is a clone of the popular room rental website, AirBNB. It is design
    npm install
    ```
 3. Set up environment variables:
-   Create a .env file in the backend directory with the following variables:
+   * Create a .env file in the backend directory with the following variables:
    ```env
    DATABASE_URL=your_postgresql_connection_string
    JWT_SECRET=your_jwt_secret
-   ```
-  For the frontend, create a .env file with API URLs and other necessary config.
+   ```  
+  * For the frontend, create a .env file with API URLs and other necessary config.
 
 4. Run the database:
-Start your database server locally or use a hosted solution.
+    ![image](https://github.com/user-attachments/assets/2fc7eb90-b97b-48cb-bdeb-08842fa220f7)
+   Start your database server locally or use a hosted solution.
 
 5. Run the frontend and backend:
    * Start the backend server
